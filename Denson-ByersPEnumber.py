@@ -1,4 +1,4 @@
-# Demo testing for Basic Networking 10/22/19
+# Demo testing for Basic Networking 10/22/19 - version 2
 
 #V is the number of grapevines that will fit in the row.
 #R is the length of rows, in feet.
