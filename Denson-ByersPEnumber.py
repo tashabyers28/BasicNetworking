@@ -1,3 +1,5 @@
+# Demo testing for Basic Networking 10/22/19
+
 #V is the number of grapevines that will fit in the row.
 #R is the length of rows, in feet.
 #E is the amount of space, in feet, used by an end-post assembly.
